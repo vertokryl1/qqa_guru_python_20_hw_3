@@ -1,1 +1,1 @@
-#Проект qqa_guru_python_20_hw_3
+#Проект qa_guru_python_20_hw_3
